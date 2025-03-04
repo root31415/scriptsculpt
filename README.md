@@ -11,6 +11,10 @@ ScriptSculpt: A way to chat with custom codebase (and hopefully extend it)
 - [ ] Add testing workflow
 
 # Changelog
+
+## 2025-03-03
+- Ran local LLM Deepseek r1 using ollama-python
+
 ## 2025-03-03
 - Started repository
 - Added To Do to README
