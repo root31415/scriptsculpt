@@ -12,6 +12,9 @@ ScriptSculpt: A way to chat with custom codebase (and hopefully extend it)
 
 # Changelog
 
+## 2025-03-04
+- Added user input for model selection
+
 ## 2025-03-03
 - Ran local LLM Deepseek r1 using ollama-python
 
