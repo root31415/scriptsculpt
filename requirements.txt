@@ -1,2 +1,2 @@
 ollama==0.4.7
-tk
+gradio
